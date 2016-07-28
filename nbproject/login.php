@@ -13,7 +13,5 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
-        <p> Fire Fist Ace <p></p>
     </body>
-    
 </html>
